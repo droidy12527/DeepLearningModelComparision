@@ -4,9 +4,14 @@
 - Comparing The accuracy Between different Deep Learning Model for ANPR.
 - Comparing The efficiency of models and time taken by them for processing the inputs.
 - The Trainable Params needed by them and total training time required to run on a machine.
-- Computer vision Image Blur issue and how a model tackle it.
+- Computer vision Image Blur issue and how a model can tackle it.
 - Confusion between digits like 0 and O also letters like 1 and I.
 - Plotting the heatmap of Matrix to see the disturbances and false positives.
 - The number of Epochs required for Each model.
+
+## Running Models On Local Machine.
+
 ## Results of Different Models
 1. Le-Net Model for Different Indian Numberplate Alphabets. 
+  - Model Accuracy
+  - ![Screenshot](Le-Net Acc.jpeg)
