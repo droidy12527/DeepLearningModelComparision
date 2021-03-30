@@ -14,4 +14,4 @@
 ## Results of Different Models
 1. Le-Net Model for Different Indian Numberplate Alphabets. 
   - Model Accuracy
-  - ![Screenshot](Le-Net Acc.jpeg)
+  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Acc.jpeg?raw=true)
