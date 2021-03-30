@@ -8,3 +8,5 @@
 - Confusion between digits like 0 and O also letters like 1 and I.
 - Plotting the heatmap of Matrix to see the disturbances and false positives.
 - The number of Epochs required for Each model.
+## Results of Different Models
+1. Le-Net Model for Different Indian Numberplate Alphabets. 
