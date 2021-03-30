@@ -1,5 +1,5 @@
 # Research: CNN Model Comparision For ANPR (Indian Numberplates).
-### Includes Models like VGG, MobileNetV2 and Le-Net for Classification of Numberplate Digits and Alphabets using Data Augmentation.
+### Includes Models like VGG-9, MobileNetV2 and Le-Net for Classification of Numberplate Digits and Alphabets using Data Augmentation.
 ## Research Include.
 - Comparing The accuracy Between different Deep Learning Model for ANPR.
 - Comparing The efficiency of models and time taken by them for processing the inputs.
