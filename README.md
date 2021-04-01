@@ -14,12 +14,12 @@
 ## Results of Different Models
 
 ## Le-Net Model for Different Indian Numberplate Alphabets.
-  - Model Accuracy vs Epochs
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Acc.jpeg?raw=true)
-  - Model Loss vs Epochs
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Loss.jpeg?raw=true)
-  - Model Heatmap for Confusion Matrix
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Heatmap.jpeg?raw=true)
+ 1. Model Accuracy vs Epochs
+   - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Acc.jpeg?raw=true)
+ 2. Model Loss vs Epochs
+   - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Loss.jpeg?raw=true)
+ 3. Model Heatmap for Confusion Matrix
+   - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Heatmap.jpeg?raw=true)
 
 2. **MobileNetV2 Model for Different Indian Numberplate Alphabets (Without Data Augmentation).**
   - Model Accuracy vs Epochs
