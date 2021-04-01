@@ -14,7 +14,7 @@
 ## Results of Different Models
 
 ## Le-Net Model for Different Indian Numberplate Alphabets.
- 1. Model Accuracy vs Epochs
+ 1. Model Accuracy vs Epochs <br/>
   ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Acc.jpeg?raw=true)
  2. Model Loss vs Epochs
   ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Loss.jpeg?raw=true)
