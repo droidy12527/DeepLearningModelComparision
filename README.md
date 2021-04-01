@@ -13,18 +13,26 @@
 
 ## Results of Different Models
 
-1. **Le-Net Model for Different Indian Numberplate Alphabets.** 
-  - Model Accuracy vs Epochs
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Acc.jpeg?raw=true)
-  - Model Loss vs Epochs
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Loss.jpeg?raw=true)
-  - Model Heatmap for Confusion Matrix
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Heatmap.jpeg?raw=true)
+- ## Le-Net Model for Different Indian Numberplate Alphabets.
+ 1. **Model Accuracy vs Epochs** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Acc.jpeg?raw=true)
+ 2. **Model Loss vs Epochs** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Loss.jpeg?raw=true)
+ 3. **Model Heatmap for Confusion Matrix** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/Le-Net%20Heatmap.jpeg?raw=true)
 
-2. **MobileNetV2 Model for Different Indian Numberplate Alphabets (Without Data Augmentation).**
-  - Model Accuracy vs Epochs
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/MobileNetV2%20Acc.jpeg?raw=true)
-  - Model Loss vs Epochs
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/MobileNetV2%20Loss.jpeg?raw=true)
-  - Model Heatmap for Confusion Matrix
-  - ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/MobileNetV2%20Heatmap.jpeg?raw=true)
+- ## MobileNetV2 Model for Different Indian Numberplate Alphabets (Without Data Augmentation).
+ 1. **Model Accuracy vs Epochs** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/MobileNetV2%20Acc.jpeg?raw=true)
+ 2. **Model Loss vs Epochs** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/MobileNetV2%20Loss.jpeg?raw=true)
+ 3. **Model Heatmap for Confusion Matrix**<br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/MobileNetV2%20Heatmap.jpeg?raw=true)
+
+- ## VGG-9 Model for Different Indian Numberplate Alphabets.
+ 1. **Model Accuracy vs Epochs** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/VGG%20Accuracy.jpeg?raw=true)
+ 2. **Model Loss vs Epochs** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/VGG%20Loss.jpeg?raw=true)
+ 3. **Model Heatmap for Confusion Matrix** <br/> <br/>
+  ![alt text](https://github.com/droidy12527/DeepLearningModelComparision/blob/master/VGG%20Heatmap.jpeg?raw=true)
